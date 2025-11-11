@@ -1,0 +1,32 @@
+.pdd2 {
+    width: 800px;
+    height: 800px;
+}
+
+h1 {
+    color: black;
+    background-color: brown;
+}
+
+.baiduA {
+    color: red;
+    font-size: 50px;
+    text-decoration: none;
+    text-decoration: line-through;
+}
+.baiduA:hover {
+    color: green;
+    text-decoration: underline;
+}
+.baiduA:active {
+    color: yellow;
+}
+.zimu {
+    color: blue;
+    font-size: 40px;
+    text-indent: 100px;
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+}
